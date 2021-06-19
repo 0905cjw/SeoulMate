@@ -40,6 +40,7 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 <img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/>
 <a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1">보러가기</a>
 <br/>
+<br/>
 
 <details>
  <summary>프로젝트 전체 보러가기</summary>
