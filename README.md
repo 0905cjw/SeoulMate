@@ -34,6 +34,7 @@
 
 https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-8e4f-61112500df68.mp4
 
+유튜브에서 보기 <a href="https://youtu.be/RYuqWUbCLus">https://youtu.be/RYuqWUbCLus</a>
 <a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1">기능 설명 더보기(코드 리뷰)</a>
 <br/>
 
