@@ -37,12 +37,14 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 유튜브에서 보기 <a href="https://youtu.be/RYuqWUbCLus">https://youtu.be/RYuqWUbCLus</a>
 
 #### 기능 설명 더보기(코드리뷰)
-<a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1"><img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/><br/>보러가기</a>
+<a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1"><img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/></a>
+ [코드 리뷰](https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1){:target="_blank"}
+
 <br/>
 <br/>
 
 <details>
  <summary>프로젝트 전체 보러가기</summary>
  <a href="https://github.com/ndamiz/SeoulMate" target="_blank"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" height="16px"/></a>
- [코드 리뷰](https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1){:target="_blank"}
+
 </details>
