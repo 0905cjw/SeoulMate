@@ -40,6 +40,9 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 <a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1"><img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/></a>
 
  [코드 리뷰](https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1){:target="_blank"}
+ 
+[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+
 
 <br/>
 <br/>
