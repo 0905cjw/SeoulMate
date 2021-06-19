@@ -11,7 +11,7 @@
  - JAVA, JSP, Spring, My-Batis
 
  DB / SERVER
- - Oracle, GitHub, Tomcat9
+ - Oracle, Git, Tomcat9
 
  TOOL
  - STS3, Notion, eXERD, sqldeveloper, DBeaver
