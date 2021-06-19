@@ -37,7 +37,7 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 유튜브에서 보기 <a href="https://youtu.be/RYuqWUbCLus">https://youtu.be/RYuqWUbCLus</a>
 
 #### 기능 설명 더보기(코드리뷰)
-<a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1"><img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/><보러가기</a>
+<a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1"><img src="https://user-images.githubusercontent.com/26404182/122635357-5fb73b80-d11e-11eb-8594-7f031e19c6ed.png" width="500px"/><br/>보러가기</a>
 
 <br/>
 <br/>
