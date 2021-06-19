@@ -36,5 +36,8 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 
 <a href="https://www.notion.so/abcdqwer/SEOULMATE-fcb5483b09e0418699e373c0f7027de1">기능 설명 더보기(코드 리뷰)</a>
 <br/>
-### 프로젝트 전체 보러가기
-<a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" width="40px"/></a>
+
+<details>
+ <summary>프로젝트 전체 보러가기</summary>
+ <a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" width="40px"/></a>
+</details>
