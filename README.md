@@ -45,5 +45,4 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 <details>
  <summary>프로젝트 전체 보러가기</summary>
  <a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" height="16px"/>보러가기</a>
- [링크이름](https://github.com/ndamiz/SeoulMate){: target="_blank"}
 </details>
