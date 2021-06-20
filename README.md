@@ -57,6 +57,5 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 <details>
  <summary>프로젝트 전체 보러가기</summary>
  <a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" height="16px"/>Git 보러가기</a>
- <a href="https://www.youtube.com/watch?v=jKCMvFVKejo"><img src="https://user-images.githubusercontent.com/26404182/122664316-ab7bea80-d1db-11eb-8bb8-d97f4a2c426a.png"/>발표 영상 보러가기</a>
-
+ <a href="https://www.youtube.com/watch?v=jKCMvFVKejo"><img src="https://user-images.githubusercontent.com/26404182/122664484-ac614c00-d1dc-11eb-80c6-fdad21a4b924.png"/>발표 영상 보러가기</a>
 </details>
