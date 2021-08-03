@@ -56,9 +56,7 @@ https://user-images.githubusercontent.com/26404182/122573376-b292e380-d089-11eb-
 
 <br/>
 
-<details>
- <summary>프로젝트 전체 보러가기</summary>
- <a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" height="16px"/>Git 보러가기</a><br/>
- <a href="https://www.youtube.com/watch?v=jKCMvFVKejo"><img src="https://user-images.githubusercontent.com/26404182/122664484-ac614c00-d1dc-11eb-80c6-fdad21a4b924.png" height="16px"/>발표 영상 보러가기</a><br/>
- <a href="https://github.com/0905cjw/SeoulMate/blob/main/%EC%84%9C%EC%9A%B8%EB%A9%94%EC%9D%B4%ED%8A%B8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%9C%ED%91%9C%EC%9A%A9.pdf"><img src="https://user-images.githubusercontent.com/26404182/127009648-ba1d330b-8ecf-4e48-ad6c-24012d0d9553.png" height="16px"/>발표 pdf 보러가기</a>
-</details>
+### ☞프로젝트 전체 보러가기
+ <a href="https://github.com/ndamiz/SeoulMate"><img src="https://user-images.githubusercontent.com/26404182/122634266-2380dc80-d118-11eb-96e4-ec5b60997d39.png" height="16px"/>Git</a><br/>
+ <a href="https://www.youtube.com/watch?v=jKCMvFVKejo"><img src="https://user-images.githubusercontent.com/26404182/122664484-ac614c00-d1dc-11eb-80c6-fdad21a4b924.png" height="16px"/>전체 발표 영상</a><br/>
+ <a href="https://github.com/0905cjw/SeoulMate/blob/main/%EC%84%9C%EC%9A%B8%EB%A9%94%EC%9D%B4%ED%8A%B8_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EB%B0%9C%ED%91%9C%EC%9A%A9.pdf"><img src="https://user-images.githubusercontent.com/26404182/127009648-ba1d330b-8ecf-4e48-ad6c-24012d0d9553.png" height="16px"/>발표 pdf</a>
